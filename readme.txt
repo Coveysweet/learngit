@@ -5,4 +5,4 @@ Git tracks changes of files.
 Add this file to github.
 Creating a new branch is quick AND simple.
 add merge.
-add coding.
+merge & fix readme.txt
